@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 When user points to the data, it will display information about that stock.
 
-1[stock2](https://github.com/nanpiyaporn/jpmc-task-2/blob/main/public/img/stock2_1.gif)
+![stock2](https://github.com/nanpiyaporn/jpmc-task-2/blob/main/public/img/stock2_1.gif)
 
 
 ## License
