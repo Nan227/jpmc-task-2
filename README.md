@@ -15,11 +15,13 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
+ Afer user click the Start Streaming Data button
 
+![stock](https://github.com/nanpiyaporn/jpmc-task-2/blob/main/public/img/stock2.gif)
 
-![stock](https://github.com/nanpiyaporn/jpmc-task-1/blob/main/stock.gif)
+When user point to the data
 
-
+1[stock2](https://github.com/nanpiyaporn/jpmc-task-2/blob/main/public/img/stock2_1.gif)
 
 
 ## License
