@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
- Afer user click the Start Streaming Data button, it will display graph.
+ Afer user clicks the Start Streaming Data button, it will display graph.
 
 ![stock](https://github.com/nanpiyaporn/jpmc-task-2/blob/main/public/img/stock2.gif)
 
