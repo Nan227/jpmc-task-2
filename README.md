@@ -15,11 +15,11 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
- Afer user click the Start Streaming Data button
+ Afer user click the Start Streaming Data button, it will display graph.
 
 ![stock](https://github.com/nanpiyaporn/jpmc-task-2/blob/main/public/img/stock2.gif)
 
-When user point to the data
+When user points to the data, it will display information about that stock.
 
 1[stock2](https://github.com/nanpiyaporn/jpmc-task-2/blob/main/public/img/stock2_1.gif)
 
