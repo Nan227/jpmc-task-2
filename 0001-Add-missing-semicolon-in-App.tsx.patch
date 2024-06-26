@@ -1,0 +1,24 @@
+From 3f195af3de9b486849fe2c8157fbe7f4f009ccb8 Mon Sep 17 00:00:00 2001
+From: Piyaporn Puangprasert <dngooddeals@gmail.com>
+Date: Sun, 23 Jun 2024 14:43:50 -0400
+Subject: [PATCH] Add missing semicolon in App.tsx
+
+---
+ src/App.tsx | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/App.tsx b/src/App.tsx
+index 6a2fc55..eb35d77 100755
+--- a/src/App.tsx
++++ b/src/App.tsx
+@@ -23,6 +23,7 @@ class App extends Component<{}, IState> {
+       // data saves the server responds.
+       // We use this state to parse data down to the child element (Graph) as element property
+       data: [],
++      
+       showGraph: false,
+     };
+   }
+-- 
+2.19.2.windows.1
+
